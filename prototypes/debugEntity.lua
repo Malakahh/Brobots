@@ -5,7 +5,7 @@ data:extend({
 		flags = {"not-blueprintable", "not-deconstructable", "not-on-map"},
 		icon = "__Brobots__/graphics/icons/circle.png",
 		icon_size = 32,
-		collision_mask = {"water-tile"},
+		collision_mask = {"layer-14"},
 		pictures = {
 			{
 				filename = "__Brobots__/graphics/icons/circle.png",
